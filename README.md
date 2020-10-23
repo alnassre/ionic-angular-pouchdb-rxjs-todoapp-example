@@ -25,6 +25,8 @@ This project will only example an offline database that syncs automatically.
 
 Other project examples will be created with CouchDB or MongoDB to sync the database online to many devices 
 
+## Check Also
+https://github.com/alnassre/ionic-angular-pouchdb-couchdb-rxjs-todoapp-example/tree/main
 
 
 ## License
