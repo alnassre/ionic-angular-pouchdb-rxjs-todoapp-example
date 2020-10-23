@@ -82,7 +82,7 @@ export class DataService {
         );
       }),
       take(1),
-      tap(request => {
+      tap((request: any) => {
         console.log('fetchMessages');
         console.log(request);
         return this._messages.next([...request.docs]);
