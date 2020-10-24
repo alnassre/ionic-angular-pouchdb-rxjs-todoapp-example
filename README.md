@@ -2,7 +2,7 @@
 
 I have created this example because I did not found a similar example, I hope it helps you learn how to create and sync offline Pouchdb Database 
 
-![alt text](https://github.com/alnassre/ionic-angular-pouchdb-rxjs-todoapp-example/blob/main/src/assets/Oct-22-2020%2014-04-34.gif?raw=true)
+![alt text](https://github.com/mansourcodes/ionic-angular-pouchdb-rxjs-todoapp-example/blob/main/src/assets/Oct-22-2020%2014-04-34.gif?raw=true)
 
 
 
